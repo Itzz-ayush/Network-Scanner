@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 import socket
 
 def scan_network(network):
