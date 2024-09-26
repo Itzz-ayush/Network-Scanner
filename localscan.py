@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 import socket
 
 # Create a socket object
