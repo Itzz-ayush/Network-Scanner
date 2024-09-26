@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 import nmap
 
 # initialize nmap scanner
