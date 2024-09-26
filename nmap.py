@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 # Import the nmap library
 import nmap
 
